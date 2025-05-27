@@ -19,3 +19,4 @@ ragas
 streamlit
 langchain-huggingface
 matplotlib
+plotly
