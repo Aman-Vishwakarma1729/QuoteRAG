@@ -1,0 +1,217 @@
+{
+  "aggregate_scores": {
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_precision": 0.0,
+    "context_recall": 0.0,
+    "answer_correctness": 0.0
+  },
+  "per_query_results": [
+    {
+      "query": "Quotes about insanity attributed to Einstein",
+      "answer": "com",
+      "retrieved_quotes": [
+        {
+          "quote": "two things are infinite the universe and human stupidity and im not sure about the universe",
+          "author": "albert einstein",
+          "tags": [
+            "humannature",
+            "humor",
+            "infinity",
+            "philosophy",
+            "science",
+            "stupidity",
+            "universe"
+          ],
+          "distance": 0.5437619686126709
+        },
+        {
+          "quote": "theres a fine line between genius and insanity i have erased this line",
+          "author": "oscar levant",
+          "tags": [
+            "genius",
+            "humor",
+            "insanity"
+          ],
+          "distance": 0.5532065629959106
+        },
+        {
+          "quote": "in individuals insanity is rare but in groups parties nations and epochs it is the rule",
+          "author": "friedrich nietzsche",
+          "tags": [
+            "insanity",
+            "society"
+          ],
+          "distance": 0.5662356019020081
+        },
+        {
+          "quote": "insanity is doing the same thing over and over again but expecting different results",
+          "author": "narcotics anonymous",
+          "tags": [
+            "humor",
+            "insanity",
+            "life",
+            "misattributedbenfranklin",
+            "misattributedmarktwain",
+            "misattributedtoeinstein"
+          ],
+          "distance": 0.6015307307243347
+        },
+        {
+          "quote": "five exclamation marks the sure sign of an insane mind",
+          "author": "terry pratchett",
+          "tags": [
+            "books",
+            "humor"
+          ],
+          "distance": 0.6295748949050903
+        }
+      ],
+      "contexts": [
+        "Quote: two things are infinite the universe and human stupidity and im not sure about the universe\nAuthor: albert einstein\nTags: humannature, humor, infinity, philosophy, science, stupidity, universe",
+        "Quote: theres a fine line between genius and insanity i have erased this line\nAuthor: oscar levant\nTags: genius, humor, insanity",
+        "Quote: in individuals insanity is rare but in groups parties nations and epochs it is the rule\nAuthor: friedrich nietzsche\nTags: insanity, society",
+        "Quote: insanity is doing the same thing over and over again but expecting different results\nAuthor: narcotics anonymous\nTags: humor, insanity, life, misattributedbenfranklin, misattributedmarktwain, misattributedtoeinstein",
+        "Quote: five exclamation marks the sure sign of an insane mind\nAuthor: terry pratchett\nTags: books, humor"
+      ]
+    },
+    {
+      "query": "Motivational quotes tagged 'accomplishment'",
+      "answer": "etc.",
+      "retrieved_quotes": [
+        {
+          "quote": "the worst part of success is trying to find someone who is happy for you",
+          "author": "bette midler",
+          "tags": [
+            "friendship",
+            "happiness",
+            "humor",
+            "inspirational",
+            "jealousy",
+            "success"
+          ],
+          "distance": 0.5891379714012146
+        },
+        {
+          "quote": "success is stumbling from failure to failure with no loss of enthusiasm",
+          "author": "winston s churchill",
+          "tags": [
+            "failure",
+            "persistence",
+            "success"
+          ],
+          "distance": 0.6042329668998718
+        },
+        {
+          "quote": "i cant give you a surefire formula for success but i can give you a formula for failure try to please everybody all the time",
+          "author": "herbert bayard swope",
+          "tags": [
+            "failure",
+            "inspirational",
+            "misattributedbillcosby",
+            "success"
+          ],
+          "distance": 0.6660277247428894
+        },
+        {
+          "quote": "if a is a success in life then a equals x plus y plus z work is x y is play and z is keeping your mouth shut",
+          "author": "albert einstein",
+          "tags": [
+            "albert",
+            "einstein",
+            "equations",
+            "success"
+          ],
+          "distance": 0.7066506743431091
+        },
+        {
+          "quote": "i have not failed ive just found 10000 ways that wont work",
+          "author": "thomas a edison",
+          "tags": [
+            "edison",
+            "failure",
+            "inspirational",
+            "paraphrased"
+          ],
+          "distance": 0.7126069664955139
+        }
+      ],
+      "contexts": [
+        "Quote: the worst part of success is trying to find someone who is happy for you\nAuthor: bette midler\nTags: friendship, happiness, humor, inspirational, jealousy, success",
+        "Quote: success is stumbling from failure to failure with no loss of enthusiasm\nAuthor: winston s churchill\nTags: failure, persistence, success",
+        "Quote: i cant give you a surefire formula for success but i can give you a formula for failure try to please everybody all the time\nAuthor: herbert bayard swope\nTags: failure, inspirational, misattributedbillcosby, success",
+        "Quote: if a is a success in life then a equals x plus y plus z work is x y is play and z is keeping your mouth shut\nAuthor: albert einstein\nTags: albert, einstein, equations, success",
+        "Quote: i have not failed ive just found 10000 ways that wont work\nAuthor: thomas a edison\nTags: edison, failure, inspirational, paraphrased"
+      ]
+    },
+    {
+      "query": "All Oscar Wilde quotes with humor",
+      "answer": "jpg",
+      "retrieved_quotes": [
+        {
+          "quote": "headline he askedswing set needs home i saiddesperately lonely swing set needs loving home he saidlonely vaguely pedophilic swing set seeks the butts of children i said",
+          "author": "john green",
+          "tags": [
+            "funny",
+            "humor",
+            "humour",
+            "internet",
+            "johngreen",
+            "pedophile",
+            "pedophilia",
+            "tfios",
+            "thefaultinourstars"
+          ],
+          "distance": 0.6797709465026855
+        },
+        {
+          "quote": "you know the world is going crazy when the best rapper is a white guy the best golfer is a black guy the tallest guy in the nba is chinese the swiss hold the americas cup france is accusing the us of arrogance germany doesnt want to go to war and the three most powerful men in america are named bush dick and colin need i say more",
+          "author": "chris rock",
+          "tags": [
+            "comedy",
+            "everydaylife",
+            "funny",
+            "humor",
+            "observationalcomedy"
+          ],
+          "distance": 0.6848495006561279
+        },
+        {
+          "quote": "sarcasm is the last refuge of the imaginatively bankrupt",
+          "author": "cassandra clare",
+          "tags": [
+            "clary",
+            "jace",
+            "sarcasm"
+          ],
+          "distance": 0.7263253927230835
+        },
+        {
+          "quote": "holey you have the the whole world of earrelated humor before you you go for holey",
+          "author": "jk rowling",
+          "tags": [
+            "humor"
+          ],
+          "distance": 0.7508954405784607
+        },
+        {
+          "quote": "i dont mind making jokes but i dont want to look like one",
+          "author": "marilyn monroe",
+          "tags": [
+            "appearance",
+            "jokes",
+            "marilynmonroe"
+          ],
+          "distance": 0.7554894685745239
+        }
+      ],
+      "contexts": [
+        "Quote: headline he askedswing set needs home i saiddesperately lonely swing set needs loving home he saidlonely vaguely pedophilic swing set seeks the butts of children i said\nAuthor: john green\nTags: funny, humor, humour, internet, johngreen, pedophile, pedophilia, tfios, thefaultinourstars",
+        "Quote: you know the world is going crazy when the best rapper is a white guy the best golfer is a black guy the tallest guy in the nba is chinese the swiss hold the americas cup france is accusing the us of arrogance germany doesnt want to go to war and the three most powerful men in america are named bush dick and colin need i say more\nAuthor: chris rock\nTags: comedy, everydaylife, funny, humor, observationalcomedy",
+        "Quote: sarcasm is the last refuge of the imaginatively bankrupt\nAuthor: cassandra clare\nTags: clary, jace, sarcasm",
+        "Quote: holey you have the the whole world of earrelated humor before you you go for holey\nAuthor: jk rowling\nTags: humor",
+        "Quote: i dont mind making jokes but i dont want to look like one\nAuthor: marilyn monroe\nTags: appearance, jokes, marilynmonroe"
+      ]
+    }
+  ]
+}
