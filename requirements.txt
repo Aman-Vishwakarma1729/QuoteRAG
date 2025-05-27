@@ -1,5 +1,4 @@
 datasets
-ipykernel
 pandas
 sentence_transformers
 numpy==1.26.4
@@ -8,7 +7,6 @@ keras<=3.0.0
 tensorflow<=2.15
 transformers
 faiss
-sentence-transformers --no-deps
 torch 
 torchvision 
 torchaudio 
